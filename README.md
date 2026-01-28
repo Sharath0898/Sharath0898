@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sharath Lohidakshan</h1>
 <h3 align="center">A passionate Cloud Computing Enthusiast based in Toronto,Canada</h3>
 
-- 🌱 I’m currently learning **Azure DevOps,Terraform, Ansible, Docker and Kubernetes.**
+- 🌱 I’m currently learning **Shell Scripting,Terraform, Ansible, Docker and Kubernetes.**
 
-- 👯 I’m looking to collaborate on **Cloud and API Projects**
+- 👯 I’m looking to collaborate on **Cloud Support / Site Reliability  and API Projects**
 
-- 📫 How to reach me **sharath.lnair08@gmail.com**
+- 📫 How to reach me **sharathlohidakshan@outlook.com**
 
-- ⚡ Fun fact **Anime fan**
+- ⚡ Fun fact **A Pianist**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
